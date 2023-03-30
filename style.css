@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background:#081C23 ;
+      overflow-y: hidden;
+      overflow-x: scroll;
+    }
+  canvas{
+    border: 2px solid black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+}
+  
